@@ -2,11 +2,29 @@ img {
     height:55px;
     width:55px;
 }
-gradient {
-    background: rgb(167,9,255);
-    background: linear-gradient(90deg, rgba(167,9,255,1) 0%, rgba(84,255,244,1) 100%);
+.gradient {
+    background: rgb(40,70,255);
+    background: linear-gradient(90deg, rgba(40,70,255,1) 0%, rgba(89,251,255,1) 84%);
 }
 html, body {
     height: 100%;
     font-size: 1rem;
+}
+#header-image {
+    height:400px;
+    width:650px;
+}
+.page-header {
+    margin-top:4rem;
+    font-size:1.25rem;
+    color:white;
+    font-family: 'Raleway', sans-serif; 
+}
+.logo-images {
+    height:50px;
+    width:50px;
+}
+#header-image-2 {
+    height:400px;
+    width:400px;
 }
