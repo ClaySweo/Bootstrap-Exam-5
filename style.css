@@ -1,0 +1,12 @@
+img {
+    height:55px;
+    width:55px;
+}
+gradient {
+    background: rgb(167,9,255);
+    background: linear-gradient(90deg, rgba(167,9,255,1) 0%, rgba(84,255,244,1) 100%);
+}
+html, body {
+    height: 100%;
+    font-size: 1rem;
+}
