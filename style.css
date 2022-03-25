@@ -50,3 +50,34 @@ html, body {
     align-items:center;
     justify-content:center;
 }
+.gallery {
+    background-color:whitesmoke;
+}
+.gallery-images {
+    width:400px;
+    height:500px;
+}
+.gallery img {
+    border-radius:5%;
+}
+.services-images {
+    width:400px;
+    height:400px;
+}
+.gallery img {
+    border-radius:5%;
+}
+.services {
+    color:white;
+}
+footer {
+    color:white;
+    font-size:1rem;
+    margin:0;
+    padding:1rem;
+
+}
+a {
+    color:white;
+    text-decoration:none;
+}
